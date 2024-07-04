@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-updated in 240704.
+updated in the morning on 240705.
